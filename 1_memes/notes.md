@@ -1,9 +1,19 @@
 #### Devlog 0: Coding a Meme Generator in Python (Part 1/2)
 
-- get text to speech (library)
+- get speech to text(library)
   - PyAudio (?)
-  - PocketSphinx (?)
   - SpeechRecognition
+  - Use google audio recognition
 - get an image, manually insert first
   - manually get 10 single sentence meme images
 - overlay text on image
+
+
+1. randomize image
+2. overlay text on image
+get text from speech
+
+
+
+- https://github.com/Uberi/speech_recognition/blob/master/examples/microphone_recognition.py
+- https://auth0.com/blog/image-processing-in-python-with-pillow/
