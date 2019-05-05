@@ -2,6 +2,7 @@ from PIL import Image, ImageFont, ImageDraw
 import speech_recognition as sr
 import random, textwrap
 
+# Add global variables used in entire application
 IMAGE_URL = 'meme.jpg'
 FONT_TYPE = 'fonts/opensans.ttf'
 SAMPLE_TEXT = 'this is a sample text this is a sample text this is a sample text'
