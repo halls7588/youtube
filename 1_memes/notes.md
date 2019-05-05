@@ -1,4 +1,4 @@
-#### Devlog 0: Coding a Meme Generator in Python with Google SpeechRecognition API
+#### Devlog 1: Coding a Meme Generator in Python (with Google SpeechRecognition API)
 
 - get speech to text(library)
   - PyAudio (?)
