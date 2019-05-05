@@ -11,7 +11,9 @@
 
 1. randomize image
 2. overlay text on image
-get text from speech
+3. update graphics (done of screen)
+4. get text from speech
+5.
 
 
 

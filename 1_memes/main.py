@@ -1,10 +1,12 @@
 from PIL import Image, ImageFont, ImageDraw
 import speech_recognition as sr
-import random
+import random, textwrap
 
-IMAGE_URL = 'final_img.jpg'
-FONT_TYPE = 'sans-serif.ttf'
-SAMPLE_TEXT = 'this is a sample text'
+IMAGE_URL = 'meme.jpg'
+FONT_TYPE = 'fonts/opensans.ttf'
+SAMPLE_TEXT = 'this is a sample text this is a sample text this is a sample text'
+WIDTH = 0
+HEIGHT = 0
 
 # Get random meme image from images folder
 def get_rand_img():
@@ -14,37 +16,45 @@ def get_rand_img():
   try:
     img = Image.open(image_url)
     return img
-  except IOError:
-    print('IOError')
+  except IOError as e:
+    print('IOError: {0}'.format(e))
     return None
 
-# TODO: Get text from computer microphone using Google Speech Recognition
+# Get text from computer microphone using Google Speech Recognition
 def get_txt_from_speech():
-  return SAMPLE_TEXT
+  initial_txt = SAMPLE_TEXT
+  txt = textwrap.fill(initial_txt, width=40)
+  return txt
 
 # Add the text on the image and return final image
 def overlay_text_on_image(img, txt):
   width, height = img.size
   draw = ImageDraw.Draw(img)
-  # font = ImageFont.truetype('arial.ttf', 16)
-  # font = ImageFont.load('arial.pil')
-  # draw.text((0, 0), txt, (255,255,255), font=font)
-  draw.text((width/4, height*4/5), txt, fill=(255, 255, 255, 255))
+
+  # Draw black box at the bottom and add wrapped text
+  font = ImageFont.truetype(FONT_TYPE, int(height/20))
+  draw.rectangle(((0, height*(8/10)), (width, height*(19/20))), fill='black')
+  draw.text((width/10, height*(8/10)), txt, fill='white', font=font)
+
   img.save(IMAGE_URL)
   return
 
 if __name__ == '__main__':
-  # First get the text from the user microphone
-  txt = get_txt_from_speech()
-
-  # Second get the random image
+  # First get the random image
   img = get_rand_img()
+
+  store_globals(img)
+
+  # Second get the text from the user microphone
+  txt = get_txt_from_speech()
 
   # Ensure that both the txt and img are valid
   if img != None and txt != None:
     overlay_text_on_image(img, txt)
-    final_img = Image.open(IMAGE_URL)
-    final_img.show()
+    meme = Image.open(IMAGE_URL)
+    meme.show()
+  else:
+    print('Error: Image or text not valid')
 
 # obtain audio from the microphone
 # r = sr.Recognizer()
@@ -61,13 +71,3 @@ if __name__ == '__main__':
 #     print("Google Speech Recognition could not understand audio")
 # except sr.RequestError as e:
 #     print("Could not request results from Google Speech Recognition service; {0}".format(e))
-
-# images = ['jackie_chan', 'mj', 'pika', 'spongebob', 'success_kid']
-# try:
-#   #Relative Path
-#   #Image on which we want to paste
-#   print('wtf')
-#   img = Image.open("images/mj.jpg")
-#   img.show()
-# except IOError:
-#   print('err')
