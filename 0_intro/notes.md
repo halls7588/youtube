@@ -1,3 +1,5 @@
+# VIDEO REMOVED
+
 Finally Committed, An Asinine Introduction
 
 Yo, my name is Telugu Gameboy (aka TGB) and I’m a software engineer and avid gamer in the San Francisco Bay Area - this is my YouTube channel.
@@ -13,6 +15,6 @@ I’m planning on a weekly schedule, where I drop the hottest shit - software en
 Most importantly, I want to show all ya’ll the amount of work it takes to make a (soon to be) successful YT channel. You can track my weekly progress on the GitHub account where I will keep track of all the work I do. If ya’ll interested in seeing more, like and subscribe and turn on dem notifs.
 
 C-ya soon - bishes.
- 
+
 
 
