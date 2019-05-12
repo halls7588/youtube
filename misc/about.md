@@ -1,2 +1,2 @@
-#### //about
+#### about
 Yo. Welcome! My name is Telugu Gameboy (tgb) and I'm a software engineer (at a start up in the Silicon Valley), addicted console gamer (think Modern Warfare, Halo, MGS5, Last of Us, Pokemon, etc.), and avid distance-runner (10k 8:10/mi pace). I've recently become interested in game development so I'll be keeping track of my progress through making videos on this YouTube channel. I'll try my best to stick to a weekly schedule! Stay tuned; like and subscribe :P
