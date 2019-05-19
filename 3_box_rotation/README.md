@@ -1,12 +1,10 @@
-### Yo!
-
 //title
 Devlog 03 // Rotating 2D Objects in Unity
 
 //description
 Yo, this is my first run with unity! I have no prior experience coding in C# so I had a lot of learning to do. I was initially going to do a test run by making flappy bird in Unity, but just understanding the basics took me the whole weekend. Hope ya'll enjoy this video on how to make squares (or boxes) rotate.
 
-//tasks completed
+//tasks
 - Get square objects to be displayed on screen
 - Ensure that objects are by adding rigidbody2d and boxcollider2d
 - Add falling script (adding 2d rigid body does this for us!)
@@ -16,7 +14,7 @@ Yo, this is my first run with unity! I have no prior experience coding in C# so 
     - first just rotate (done)
     - second toggle rotate right/left when spacebar is hit
 
-//learned about
+//learned
 - Unity
 - Rigidbody2D
 - MoveRotation
@@ -27,7 +25,7 @@ Yo, this is my first run with unity! I have no prior experience coding in C# so 
 - IEnumerator
 - yield return new WaitForSeconds(0.0001f); ??
 
-//boxy movement code
+//code
 https://github.com/TeluguGameboy/youtube/blob/master/3_box_rotation/BoxyMovement.cs
 
 //about
@@ -43,4 +41,4 @@ Yo. If you are new here, welcome! My name is TGB and I'm a software engineer (at
 - Joakim Karud, Canals: https://soundcloud.com/joakimkarud/canals-chilihop-essentials-summer-2016
 
 //tags
-unity, gamedev, unity2d, rigidbody, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog, moverotation, unity3d, rotating squares in unity, rotating boxes in unity, rotating in unity, rotating 2d objects in unity
+unity, gamedev, unity2d, rigidbody, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog, moverotation, unity3d, rotating squares in unity, rotating boxes in unity, rotating in unity, rotating 2d objects in unity, rotating objects in unity
