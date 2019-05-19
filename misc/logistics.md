@@ -1,8 +1,9 @@
 #### Links
 ---
-- Youtube - https://www.youtube.com/channel/UCeUeYvS8xb0iRxegIMxkX-w
-- Github - https://github.com/TeluguGameboy
-- Trello: https://trello.com/b/GZFXpNPo/flappy-bird-with-unity
+- Youtube: https://www.youtube.com/channel/UCeUeYvS8xb0iRxegIMxkX-w
+- Trello: https://trello.com/b/GZFXpNPo/telugugameboy
+- Reddit: https://www.reddit.com/user/TeluguGameboy
+- Github: https://github.com/TeluguGameboy
 
 #### Necessities
 ---
