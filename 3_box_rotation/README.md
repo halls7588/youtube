@@ -1,5 +1,6 @@
 //title
 Devlog 03 // Rotating 2D Objects in Unity
+Devlog 03 // How to Rotate 2D Objects in Unity
 
 //description
 Yo, this is my first run with unity! I have no prior experience coding in C# so I had a lot of learning to do. I was initially going to do a test run by making flappy bird in Unity, but just understanding the basics took me the whole weekend. Hope ya'll enjoy this video on how to make squares (or boxes) rotate.
@@ -41,4 +42,4 @@ Yo. If you are new here, welcome! My name is TGB and I'm a software engineer (at
 - Joakim Karud, Canals: https://soundcloud.com/joakimkarud/canals-chilihop-essentials-summer-2016
 
 //tags
-unity, gamedev, unity2d, rigidbody, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog, moverotation, unity3d, rotating squares in unity, rotating boxes in unity, rotating in unity, rotating 2d objects in unity, rotating objects in unity
+unity, gamedev, unity2d, rigidbody, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog, moverotation, unity3d, rotating squares in unity, rotating boxes in unity, rotating in unity, rotating 2d objects in unity, rotating objects in unity, how to rotate objects in unity, how to rotate 2d objects in unity
