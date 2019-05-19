@@ -1,0 +1,8 @@
+Get objects displayed (done)
+Ensure that objects are colliding/2d (done)
+Add falling script (Adding 2d rigid body does this for us!)
+Add rotation to box
+- first we need to add a spacebar bounce (done!)
+- next we rotate (now we need to rotate left/right when hitting spacebar!)
+    - first just rotate (done)
+    - second toggle rotate right/left when spacebar is hit
