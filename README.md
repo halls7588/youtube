@@ -9,6 +9,9 @@ Yo. If you are new here, welcome! My name is TGB and I'm a software engineer (at
 - Reddit: https://www.reddit.com/user/TeluguGameboy
 - Github: https://github.com/TeluguGameboy
 
+#### music
+- Joakim Karud, Canals: https://soundcloud.com/joakimkarud/canals-chilihop-essentials-summer-2016
+
 #### basic tags
 unity, gamedev, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog
 
