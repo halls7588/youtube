@@ -3,7 +3,7 @@ Devlog 03 // Rotating 2D Objects in Unity
 Devlog 03 // How to Rotate 2D Objects in Unity
 
 //description
-Yo, this is my first run with unity! I have no prior experience coding in C# so I had a lot of learning to do. I was initially going to do a test run by making flappy bird in Unity, but just understanding the basics took me the whole weekend. Hope ya'll enjoy this video on how to make squares (or boxes) rotate.
+Yo, this is my first run with unity! I have no prior experience coding in C# so I had a lot of learning to do. I was initially going to do a test run by making flappy bird in Unity, but just understanding the basics took me the whole weekend. Hope ya'll enjoy this video on how to make rigidbody2d (squares or boxes) rotate.
 
 //tasks
 - Get square objects to be displayed on screen
@@ -15,7 +15,7 @@ Yo, this is my first run with unity! I have no prior experience coding in C# so 
     - first just rotate (done)
     - second toggle rotate right/left when spacebar is hit
 
-//learned
+//topics learned
 - Unity
 - Rigidbody2D
 - MoveRotation
