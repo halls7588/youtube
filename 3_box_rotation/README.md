@@ -40,6 +40,12 @@ Yo. If you are new here, welcome! My name is TGB and I'm a software engineer (at
 
 //music
 - Joakim Karud, Canals: https://soundcloud.com/joakimkarud/canals-chilihop-essentials-summer-2016
+- LAKEY INSPIRED
+Track Name: "Days Like These"
+Music By: LAKEY INSPIRED @ https://soundcloud.com/lakeyinspired
+- Music Credit: LAKEY INSPIRED
+Track Name: "New Day"
+Music By: LAKEY INSPIRED @ https://soundcloud.com/lakeyinspired
 
 //tags
 unity, gamedev, unity2d, rigidbody, devlog, tgb, telugugameboy, telugu, gameboy, gamedevelopment, devlog, moverotation, unity3d, rotating squares in unity, rotating boxes in unity, rotating in unity, rotating 2d objects in unity, rotating objects in unity, how to rotate objects in unity, how to rotate 2d objects in unity
