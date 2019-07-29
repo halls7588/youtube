@@ -1,5 +1,7 @@
 # Data Sciene 101: Analyzing Twitch Viewership Data in Python
 
+### ![YouTube Tutorial](https://www.youtube.com/watch?v=nASfFE9kIas)
+
 ### Main Files 
 `app.py`: the code which runs the flask app  
 `twitch_integration.py`: contains the code to connect to twitch api and make requests  
