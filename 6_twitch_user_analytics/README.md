@@ -1,4 +1,4 @@
-# Data Sciene 101: Analyzing Twitch Viewership Data in Python
+# Analyzing Twitch Viewership Data in Python
 
 ### Check out the YouTube tutorial [here.](https://www.youtube.com/watch?v=nASfFE9kIas)
 
