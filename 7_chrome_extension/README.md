@@ -11,8 +11,8 @@ Note: If you are completely new to chrome extensions, then I would advise that y
 Finds movie/tv show that closest resembles the title displayed on Netflix when hovering over a selection, fetches the IMDb score from the OMDbAPI, and adds a `div` to display it. It is far from perfect - the extension has few error checks, it occasionally fails silently, and the UI is pretty shoddy - but it gets the job done. Please feel free to take it and augment it as you see fit. Would love to see what you guys/gals can do!
 
 ## Examples
-![](https://github.com/TeluguGameboy/youtube/tree/master/7_chrome_extension/stranger_things.png)
-![](https://github.com/TeluguGameboy/youtube/tree/master/7_chrome_extension/sherlock.png)
+- Example 1: [Stranger Things](https://github.com/TeluguGameboy/youtube/tree/master/7_chrome_extension/stranger_things.png)
+- Example 2: [Sherlock](https://github.com/TeluguGameboy/youtube/tree/master/7_chrome_extension/sherlock.png)
 
 ## Resources Used
 - Got IMDb movie scores from [OMDbAPI](http://www.omdbapi.com/)
