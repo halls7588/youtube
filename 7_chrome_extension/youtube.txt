@@ -1,0 +1,18 @@
+// Description
+I often found myself opening IMDb to check reviews before starting a new Netflix tv-show or movie. After finally getting fed-up with the sub-optimal process, I built this chrome extension. Now, I don't have to open numerous tabs to search through reviews anymore! In this video, I will be taking you through the step-by-step process of making this Netflix extension.
+
+Note: If you are completely new to chrome extensions, then I would advise that you start off by watching the chrome extensions series on YouTube made by `the coding train`. I used his videos as a starting point.
+
+// Code
+- Github: https://github.com/TeluguGameboy/youtube/tree/master/7_chrome_extension
+
+// Helpful Resources
+- OMDbAPI: http://www.omdbapi.com/
+- Coding Train's Tutorial: https://www.youtube.com/watch?9=&v=kP-UmHrxCYk
+
+Time Stamps
+- Demo   : 00:05
+- Design : 01:51
+- Code   : 03:58
+- Misc   : 10:00
+
