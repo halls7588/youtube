@@ -1,9 +1,9 @@
 # A Chrome Extension that Displays IMDb Scores on Netflix
 
-## Description and [YouTube Tutorial](https://www.youtube.com/watch?v=Ul6YTiJa3cM)
+## Description and [YouTube Tutorial](https://www.youtube.com/watch?v=_CER5Hoc6F0)
 I often found myself opening IMDb to check reviews before starting a new Netflix tv-show or movie. After finally getting fed-up with the sub-optimal process, I built this chrome extension. Now, I don't have to open numerous tabs to search through reviews anymore!
 
-It is important to note that this code will not work as-is because I removed my API key. If you are interested in learning about the extension's implementation and would like to get things up and running, then please checkout this **[YouTube tutorial](https://www.youtube.com/watch?v=Ul6YTiJa3cM)** where I describe how the extension works.
+It is important to note that this code will not work as-is because I removed my API key. If you are interested in learning about the extension's implementation and would like to get things up and running, then please checkout this **[tutorial](https://www.youtube.com/watch?v=_CER5Hoc6F0)** where I describe how the extension works.
 
 Note: If you are completely new to chrome extensions, then I would advise that you start off by watching the chrome extensions series on YouTube made by `the coding train`. I used his videos as a starting point.
 
